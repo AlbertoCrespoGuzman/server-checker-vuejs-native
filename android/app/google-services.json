@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354673965764",
+    "firebase_url": "https://server-checker-ok.firebaseio.com",
+    "project_id": "server-checker-ok",
+    "storage_bucket": "server-checker-ok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354673965764:android:ff166de4c4d295a43c6791",
+        "android_client_info": {
+          "package_name": "com.vue_native_server_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354673965764-j9c9k36kcil5mhki1vu4jcnki5km8qdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiZrqxcMCFwwBYBHc8TcFKF3wzdqBzI9s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354673965764-j9c9k36kcil5mhki1vu4jcnki5km8qdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
